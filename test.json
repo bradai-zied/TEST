@@ -1,0 +1,12 @@
+{
+  "EXTERNAL_DNS":{
+    "Namespace" : "infra-system",
+    "domainFilters[0]" : "CHANGE_ME",
+    "txtOwnerId" : "hostedzone",
+    "aws.region" : "eu-west-1",
+    "policy" : "upsert-only",
+    "provider" : "aws",
+    "serviceAccountName" : "external-dns",
+    "rbac.create" : "true"
+      }
+  }
