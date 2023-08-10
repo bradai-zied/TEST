@@ -7,6 +7,7 @@
     "policy" : "upsert-only",
     "provider" : "aws",
     "serviceAccountName" : "external-dns",
-    "rbac.create" : "true"
+    "rbac.create" : "true",
+    "newTest":true
       }
   }
