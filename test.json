@@ -8,6 +8,6 @@
     "provider" : "aws",
     "serviceAccountName" : "external-dns",
     "rbac.create" : "true",
-    "newTest":true
+    "newTest":"mmissi"
       }
   }
